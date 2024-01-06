@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
-- 
+
 - 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
 
 - 💬 Ask me about **DSA, Android Dev, Competitive Programming**
