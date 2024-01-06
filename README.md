@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swami Kedari</h1>
-<h3 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3>
-< img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" >
+<h3 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true" width="300">&emsp;
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
 - 🔭 I’m currently working on [rankTracker](https://github.com/SwamiKedari/rankTrackr)
