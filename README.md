@@ -6,15 +6,13 @@
 <h3 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
-- 🌱 I’m currently learning **React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+- I’m currently learning **React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 
-- 👯 I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
+- I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
 
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
+- All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
 
-- 💬 Ask me about **DSA, Android Dev, Competitive Programming**
-
-- 📫 How to reach me: 
+- How to reach me: 
   - Email: [![Email](https://img.shields.io/badge/Email-swamikedarics48%40gmail.com-red?style=flat-square&logo=gmail)](mailto:swamikedarics48@gmail.com)
   - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swami%20Kedari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swami-kedari-583b86210)
 
