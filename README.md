@@ -16,7 +16,10 @@
 
 - 💬 Ask me about **DSA, Android Dev, Competitive Programming**
 
-- 📫 How to reach me **swamikedarics48@gmail.com**
+- 📫 How to reach me: 
+  - Email: [swamikedarics48@gmail.com](mailto:swamikedarics48@gmail.com)
+  - LinkedIn: [Swami Kedari](https://linkedin.com/in/swami-kedari-583b86210)
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
 
