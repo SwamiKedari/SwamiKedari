@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swami Kedari</h1>
-<p align ="center">
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-</p>
+<br>
 <h3 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
