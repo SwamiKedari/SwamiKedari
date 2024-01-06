@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
-- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/rankTrackr)
+- 🔭 I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/rankTrackr) 
 
 - 🌱 I’m currently learning **React Native**
 
