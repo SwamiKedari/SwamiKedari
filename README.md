@@ -5,7 +5,7 @@
 <br>
 <h3 align="center"> Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
 
-
+[![](https://visitcount.itsvg.in/api?id=SwamiKedari&icon=6&color=6)](https://visitcount.itsvg.in)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
