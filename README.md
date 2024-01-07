@@ -14,9 +14,9 @@
 
 - How to reach me: 
   - Email: [![Email](https://img.shields.io/badge/Email-swamikedarics48%40gmail.com-red?style=flat-square&logo=gmail)](mailto:swamikedarics48@gmail.com)
-  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swami%20Kedari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swami-kedari-583b86210)
+  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swami%20Ramchandra%20Kedari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swami-kedari-583b86210)
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20Resume-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
+- Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20Resume-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
