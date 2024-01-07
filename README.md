@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swamikedari&theme=radical" alt="swamikedari" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=SwamiKedari&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SwamiKedari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
