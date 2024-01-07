@@ -4,6 +4,14 @@
 </p>
 <br>
 <h3 align="center"> Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h3> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SwamiKedari&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
 - I’m currently learning **React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
