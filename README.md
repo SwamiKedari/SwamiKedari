@@ -8,7 +8,7 @@
 
 - I’m currently learning **React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 
-- I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
+- I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-Swadesi-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
 
 - All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
 
