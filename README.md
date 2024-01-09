@@ -40,6 +40,15 @@
 <img src="dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
 </p>
 
+<h4 align="center">Languages:</h4>
+<p align="center">
+<img src="dev/tools/android_studio_colour.svg" alt="android" style="vertical-align:top; margin:4px">
+<img src="dev/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
+<img src="dev/tools/jetbrains_pycharm.svg" alt="charm" style="vertical-align:top; margin:4px">
+<img src="dev/tools/visualstudio_code.svg" alt="code" style="vertical-align:top; margin:4px">
+<img src="dev/tools/vmware.svg" alt="vm" style="vertical-align:top; margin:4px">
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamikedari&theme=radical&show_icons=true&locale=en&layout=compact" alt="swamikedari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swamikedari&theme=radical&show_icons=true&locale=en" alt="swamikedari" /></p>
