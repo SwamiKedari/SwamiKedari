@@ -38,6 +38,17 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C plus plus" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
+  <img src="" alt="" style="vertical-align:top; margin:4px">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamikedari&theme=radical&show_icons=true&locale=en&layout=compact" alt="swamikedari" /></p>
 
