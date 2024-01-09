@@ -31,12 +31,14 @@
 </p>
 
 <h4 align="center">Languages:</h4>
+<p aligin="center">
 <img src="dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
 <img src="dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
 <img src="dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swamikedari&theme=radical&show_icons=true&locale=en&layout=compact" alt="swamikedari" /></p>
 
