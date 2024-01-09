@@ -3,7 +3,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 <br>
-<h4 align="center">A Passionate Programmer | Android App Developer | Software Developer | Problem Solver | Competitive Programmer</h4> 
+<h4 align="center">A Passionate Programmer | Android App Developer | Software Developer | Competitive Programmer</h4> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&icon=6&color=6&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
