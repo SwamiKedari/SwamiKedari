@@ -34,7 +34,7 @@
 <img src="dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
 </p>
 
-<h4 align="center">Languages:</h4>
+<h4 align="center">Tools:</h4>
 <p align="center">
 <img src="dev/tools/android_studio_colour.svg" alt="android" style="vertical-align:top; margin:4px">
 <img src="dev/tools/jetbrains_intellij.svg" alt="intellij" style="vertical-align:top; margin:4px">
