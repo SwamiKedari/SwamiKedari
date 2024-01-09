@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&icon=6&color=6&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
-- I’m currently learning **React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+- **I’m currently learning React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 
-- I’m currently working on [![GitHub](https://img.shields.io/badge/GitHub-Swadesi-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
+- **I’m currently working on** [![GitHub](https://img.shields.io/badge/GitHub-Swadesi-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
 
-- All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
+- **All of my projects are available at** [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
 
-- Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20Resume-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
+- **Know about my experiences** [![Resume](https://img.shields.io/badge/Resume-View%20Resume-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
