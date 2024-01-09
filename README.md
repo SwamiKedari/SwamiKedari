@@ -25,7 +25,7 @@
 </p>
 
 <h4 align="center">Languages:</h4>
-<p aligin="center">
+<p align="center">
 <img src="dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
 <img src="dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:4px">
