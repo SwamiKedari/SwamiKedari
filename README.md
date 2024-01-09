@@ -22,9 +22,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/swami-kedari-583b86210" target="blank"><img align="center" src="social/linkedin.svg" alt="swami-kedari-583b86210" height="30" width="40" /></a>
-<a href="https://instagram.com/swami_kedari" target="blank"><img align="center" src="social/instagram.svg" alt="swami_kedari" height="30" width="40" /></a>
-<a href="swamikedarics48@gmail.com" target="blank"><img align="center" src="social/gmail.svg" alt="swamikedarics48" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swami-kedari-583b86210" target="blank"><img align="center" src="social/linkedin.svg" alt="swami-kedari-583b86210" style="vertical-align:top; margin:4px" /></a>
+<a href="https://instagram.com/swami_kedari" target="blank"><img align="center" src="social/instagram.svg" alt="swami_kedari" style="vertical-align:top; margin:4px" /></a>
+<a href="swamikedarics48@gmail.com" target="blank"><img align="center" src="social/gmail.svg" alt="swamikedarics48"style="vertical-align:top; margin:4px" /></a>
 
 </p>
 
