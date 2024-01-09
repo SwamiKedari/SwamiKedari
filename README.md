@@ -14,13 +14,9 @@
 
 - All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-SwamiKedari-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari)
 
-- How to reach me: 
-  - Email: [![Email](https://img.shields.io/badge/Email-swamikedarics48%40gmail.com-red?style=flat-square&logo=gmail)](mailto:swamikedarics48@gmail.com)
-  - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swami%20Ramchandra%20Kedari-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/swami-kedari-583b86210)
-
 - Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View%20Resume-brightgreen?style=flat-square&logo=google-drive)](https://drive.google.com/file/d/1Sz0OVcREMAtsi1elq1DG6eTsWVM2gB8E/view?usp=drive_link)
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://linkedin.com/in/swami-kedari-583b86210" target="blank"><img align="center" src="social/linkedin.svg" alt="swami-kedari-583b86210" style="vertical-align:top; margin:4px" /></a>
 <a href="https://instagram.com/swami_kedari" target="blank"><img align="center" src="social/instagram.svg" alt="swami_kedari" style="vertical-align:top; margin:4px" /></a>
