@@ -47,4 +47,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swamikedari&theme=radical&show_icons=true&locale=en" alt="swamikedari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swamikedari&theme=radical" alt="swamikedari" /></p>
