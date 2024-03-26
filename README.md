@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Swami Kedari</h2>
+<h3 align="center">Hi 👋, I'm Swami Kedari</h3>
 <p align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
