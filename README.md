@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamikedari&icon=6&color=6&label=Profile%20views&color=0e75b6&style=flat" alt="swamikedari" /> </p>
 
-- **I’m currently learning React Native** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+- **I’m currently learning React Native, DSA and Competitive programming** <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 
 - **I’m currently working on** [![GitHub](https://img.shields.io/badge/GitHub-Swadesi-blue?style=flat-square&logo=github)](https://github.com/SwamiKedari/swadesi)
 
